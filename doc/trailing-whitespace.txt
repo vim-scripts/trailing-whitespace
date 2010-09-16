@@ -4,7 +4,7 @@
 This plugin causes all trailing whitespace to be highlighted in red.
 
 
-                                  *:FixWhitespace* *FixWhitespace*
+                                                *FixWhitespace*
 
 To fix the whitespace errors, just call :FixWhitespace.  By default it
 operates on the entire file.  Pass a range (or use V to select some lines)
